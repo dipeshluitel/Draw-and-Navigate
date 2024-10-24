@@ -1,0 +1,33 @@
+Project Title: Draw and Navigate
+
+Description:
+"Draw and Navigate" is an engaging Turtle graphics project that invites users to explore
+programming concepts through the art of drawing and navigation. Built using Python's Turtle
+graphics module, this project empowers users to control a turtle on-screen, allowing them to
+create diverse shapes and designs while gaining insights into fundamental programming and user
+input handling.
+
+Key Features:
+
+User Control: Navigate the turtle with simple keyboard commands—move forward, backward, and rotate in both
+clockwise and counterclockwise directions.
+
+Reset Functionality: Effortlessly clear the canvas and return the turtle to its home position,
+enabling users to start anew with their creations.
+
+Interactive Learning: A perfect tool for beginners to enhance their programming skills while
+enjoying the creative process of drawing.
+
+Whether you're a novice programmer eager to improve your skills or simply someone who loves
+creating art, "Draw and Navigate" offers a delightful platform to express your creativity while
+learning.
+
+
+Controls
+Once the program is running, you can control the turtle using the following keyboard commands:
+
+Move Forward: Press W to move the turtle forward by 10 units.
+Move Backward: Press S to move the turtle backward by 10 units.
+Rotate Clockwise: Press D to rotate the turtle 10 degrees clockwise.
+Rotate Counterclockwise: Press A to rotate the turtle 10 degrees counterclockwise.
+Reset: Press C to clear the drawing and return the turtle to the home position.
